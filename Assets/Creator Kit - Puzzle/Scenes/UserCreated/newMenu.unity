@@ -223,6 +223,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
+      propertyPath: levels.Array.data[0].oneStarTime
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[0].twoStarTime
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
       propertyPath: levels.Array.data[1].displayName
       value: Level2
       objectReference: {fileID: 0}
@@ -230,6 +240,16 @@ PrefabInstance:
         type: 3}
       propertyPath: levels.Array.data[2].displayName
       value: Level3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[0].threeStarTime
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[0].totalStarsRequired
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939642, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
